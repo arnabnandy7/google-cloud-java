@@ -415,4 +415,7 @@ Apache 2.0 - See [LICENSE] for more information.
 [cloud-platform-docs]: https://cloud.google.com/docs/
 [client-lib-docs]: https://googleapis.dev/java/google-cloud-clients/latest/index.html
 
-<!-- GitAds-Verify: IGXMT9YVNHY9X2YCKR2ARIMGX2VFVFN1 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/google-cloud-java@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/google-cloud-java@github)
+
+
